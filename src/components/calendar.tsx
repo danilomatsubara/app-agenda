@@ -1,5 +1,5 @@
 import React from 'react';
-import { GoogleCalendarEvent } from '@/types/calendar';
+import { GoogleCalendarEvent } from '../types/calendar';
 
 // Componentes para a funcionalidade de agendamento
 export const CalendarComponents = {
