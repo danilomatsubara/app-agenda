@@ -1,9 +1,0 @@
-# Este é um arquivo de ícone placeholder
-# Em um ambiente de produção, você deve substituir por ícones reais
-# com as dimensões corretas
-
-# Instruções para criar ícones:
-# 1. Use o logo da Dani Tattoos
-# 2. Crie versões em 192x192, 512x512 e 180x180 pixels
-# 3. Salve no formato PNG
-# 4. Substitua este arquivo placeholder pelos ícones reais
